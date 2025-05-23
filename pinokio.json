@@ -1,0 +1,9 @@
+{
+  "name": "Intel Stock Dashboard",
+  "description": "Un assistant boursier local pour analyser l'action Intel avec Streamlit et l'IA.",
+  "type": "app",
+  "entry": "streamlit run intel_dashboard.py",
+  "install": {
+    "pip": ["-r requirements.txt"]
+  }
+}
